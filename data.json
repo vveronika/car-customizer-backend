@@ -1,0 +1,118 @@
+{
+  "models": [
+    {
+      "id": 1,
+      "name": "PRO RS3",
+      "size": "XL",
+      "maxDisplacement": 6000,
+      "price": 30000
+    },
+    {
+      "id": 2,
+      "name": "UBER RS2",
+      "size": "L",
+      "maxDisplacement": 5000,
+      "price": 25000
+    },
+    {
+      "id": 3,
+      "name": "STANDARD",
+      "size": "M",
+      "maxDisplacement": 4000,
+      "price": 20000
+    },
+    {
+      "id": 4,
+      "name": "WK",
+      "size": "S",
+      "maxDisplacement": 2000,
+      "price": 15000
+    }
+  ],
+  "engines": [
+    {
+      "id": 1,
+      "name": "5.2L 532BHP",
+      "displacement": 5200,
+      "gearbox": [
+        {
+          "id": 1,
+          "name": "automatic",
+          "price": 6000
+        }
+      ],
+      "price": 9000
+    },
+    {
+      "id": 2,
+      "name": "4.2L 532BHP",
+      "displacement": 4200,
+      "gearbox": [
+        {
+          "id": 1,
+          "name": "manual",
+          "price": 3000
+        },
+        {
+          "id": 2,
+          "name": "automatic",
+          "price": 6000
+        }
+      ],
+      "price": 6000
+    },
+    {
+      "id": 3,
+      "name": "3.6L 532BHP",
+      "displacement": 3600,
+      "gearbox": [
+        {
+          "id": 1,
+          "name": "manual",
+          "price": 3000
+        },
+        {
+          "id": 2,
+          "name": "automatic",
+          "price": 6000
+        }
+      ],
+      "price": 5500
+    },
+    {
+      "id": 4,
+      "name": "2.0L 532BHP",
+      "displacement": 2000,
+      "gearbox": [
+        {
+          "id": 1,
+          "name": "manual",
+          "price": 3000
+        }
+      ],
+      "price": 4000
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "name": "acid_wash"
+    },
+    {
+      "id": 2,
+      "name": "purple_rain"
+    },
+    {
+      "id": 3,
+      "name": "tron_turqouise"
+    },
+    {
+      "id": 4,
+      "name": "pacman"
+    },
+    {
+      "id": 5,
+      "name": "powersuit"
+    }
+  ]
+}
