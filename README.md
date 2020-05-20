@@ -1,6 +1,6 @@
 # Car customizer - backend application
 
-This app has been made along with Car Customizer front-end application, which can be found [here]().
+This app has been made along with Car Customizer front-end application, which can be found [here](https://github.com/vveronika/car-customizer).
 
 To run this application (after cloning it on your computer), in the project directory:
 
